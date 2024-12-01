@@ -1,118 +1,39 @@
-[03:05:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:05:51] [ServerMain/INFO]: Loaded 1290 recipes
-[03:05:51] [ServerMain/INFO]: Loaded 1399 advancements
-[03:05:52] [Server thread/INFO]: Starting minecraft server version 1.21
-[03:05:52] [Server thread/INFO]: Loading properties
-[03:05:52] [Server thread/INFO]: Default game type: SURVIVAL
-[03:05:52] [Server thread/INFO]: Generating keypair
-[03:05:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:05:52] [Server thread/INFO]: Using epoll channel type
-[03:05:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:05:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:05:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:05:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:05:52] [Server thread/INFO]: Preparing level "world"
-[03:05:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:05:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:55] [Server thread/INFO]: Time elapsed: 345 ms
-[03:05:55] [Server thread/INFO]: Done (2.937s)! For help, type "help"
-[03:06:22] [Server thread/INFO]: NicolasRamosR[/127.237.143.76:45709] logged in with entity id 22 at (-6.2682532865476395, 64.25220334025373, -31.238587258496676)
-[03:06:22] [Server thread/INFO]: NicolasRamosR joined the game
-[03:06:34] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/283, l='ServerLevel[world]', x=157.05, y=541.31, z=-320.48]
-[03:06:34] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/284, l='ServerLevel[world]', x=-140.21, y=200.15, z=-327.84]
-[03:06:34] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/286, l='ServerLevel[world]', x=40.25, y=-0.38, z=-328.40]
-[03:06:34] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/289, l='ServerLevel[world]', x=261.16, y=158.44, z=-324.37]
-[03:06:34] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/291, l='ServerLevel[world]', x=-284.77, y=88.98, z=-321.08]
-[03:06:34] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/293, l='ServerLevel[world]', x=-283.88, y=-46.14, z=-321.39]
-[03:06:34] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/294, l='ServerLevel[world]', x=-246.01, y=27.60, z=-326.93]
-[03:06:34] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/295, l='ServerLevel[world]', x=-223.99, y=1339.95, z=-320.08]
-[03:06:34] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/297, l='ServerLevel[world]', x=-70.42, y=856.10, z=-320.02]
-[03:06:34] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/301, l='ServerLevel[world]', x=272.72, y=131.83, z=-322.59]
-[03:07:14] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/550, l='ServerLevel[world]', x=115.37, y=110.69, z=273.11]
-[03:07:14] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/551, l='ServerLevel[world]', x=61.78, y=29.36, z=272.05]
-[03:07:14] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/555, l='ServerLevel[world]', x=-174.75, y=3.06, z=272.28]
-[03:07:14] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/565, l='ServerLevel[world]', x=-103.65, y=34.71, z=272.06]
-[03:07:14] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/566, l='ServerLevel[world]', x=-96.27, y=93.14, z=272.07]
-[03:07:14] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/571, l='ServerLevel[world]', x=-19.86, y=131.94, z=272.42]
-[03:07:14] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/578, l='ServerLevel[world]', x=19.76, y=179.26, z=272.17]
-[03:07:14] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/580, l='ServerLevel[world]', x=168.93, y=89.75, z=272.60]
-[03:07:14] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/582, l='ServerLevel[world]', x=175.80, y=-16.79, z=272.80]
-[03:07:14] [Server thread/WARN]: UUID of added entity already exists: cod['Wither Skull'/588, l='ServerLevel[world]', x=-218.84, y=46.50, z=273.26]
-[03:07:42] [Server thread/INFO]: Matielculon2[/127.55.145.11:38577] logged in with entity id 1009 at (938.1952600491172, 121.0, 1111.0668451669544)
-[03:07:42] [Server thread/INFO]: Matielculon2 joined the game
-[03:07:58] [Server thread/INFO]: [Not Secure] <Matielculon2> Naguara
-[03:08:46] [Server thread/INFO]: [Not Secure] <Matielculon2> Me das la espada?
-[03:08:48] [Server thread/INFO]: [Not Secure] <NicolasRamosR> no se porque estaba en creativo
-[03:08:58] [Server thread/INFO]: [Not Secure] <Matielculon2> Como cambia la camara?
-[03:09:05] [Server thread/INFO]: [Not Secure] <NicolasRamosR> R?
-[03:09:05] [Server thread/INFO]: [Not Secure] <Matielculon2> Por que vs me lo cambiaste
-[03:09:13] [Server thread/INFO]: [Not Secure] <Matielculon2> Listo
-[03:09:20] [Server thread/INFO]: [Not Secure] <Matielculon2> Veni pa la foto
-[03:09:50] [Server thread/INFO]: [Not Secure] <Matielculon2> Listoo
-[03:10:04] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Ehh...
-[03:10:12] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Matí...
-[03:12:13] [Server thread/WARN]: Martin  (vehicle of Matielculon2) moved wrongly! 0.2707027976852032
-[03:14:25] [Server thread/INFO]: [Not Secure] <Matielculon2> Nico
-[03:14:28] [Server thread/INFO]: [Not Secure] <Matielculon2> q
-[03:14:30] [Server thread/INFO]: [Not Secure] <Matielculon2> Paso
-[03:14:39] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Nada
-[03:14:46] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Era el creativo
-[03:14:49] [Server thread/INFO]: [Not Secure] <Matielculon2> Eu
-[03:14:51] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Ahora me lo saco
-[03:14:54] [Server thread/INFO]: [Not Secure] <Matielculon2> me voy a dormir
-[03:14:58] [Server thread/INFO]: [Not Secure] <Matielculon2> :()
-[03:14:59] [Server thread/INFO]: [NicolasRamosR: Set own game mode to Survival Mode]
-[03:15:36] [Server thread/INFO]: [Not Secure] <Matielculon2> NICO
-[03:15:39] [Server thread/INFO]: [Not Secure] <Matielculon2> SEGUIME
-[03:17:08] [Server thread/INFO]: [Not Secure] <Matielculon2> carrera
-[03:17:10] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Esta re chetooo
-[03:17:13] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Nahh bueno
-[03:17:17] [Server thread/INFO]: [Not Secure] <Matielculon2> JAJAJAJA
-[03:17:19] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Te haces el chistoso
-[03:17:22] [Server thread/INFO]: [Not Secure] <NicolasRamosR> JASJASJ
-[03:17:48] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Me quedan sos coraz
-[03:17:50] [Server thread/INFO]: [Not Secure] <NicolasRamosR> ???
-[03:18:13] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Pero Matí
-[03:18:17] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Que haces?
-[03:18:23] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Me vas a matar tonto
-[03:18:28] [Server thread/INFO]: [Not Secure] <Matielculon2> Jajajaja
-[03:18:35] [Server thread/INFO]: [Not Secure] <NicolasRamosR> ):
-[03:18:42] [Server thread/INFO]: [Not Secure] <Matielculon2> Sorry
-[03:18:52] [Server thread/INFO]: [Not Secure] <NicolasRamosR> ):
-[03:19:03] [Server thread/INFO]: [Not Secure] <Matielculon2> Tenes comida=
-[03:19:05] [Server thread/INFO]: [Not Secure] <Matielculon2> ?
-[03:19:09] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No
-[03:19:12] [Server thread/INFO]: [Not Secure] <NicolasRamosR> 6 de pan
-[03:19:17] [Server thread/INFO]: [Not Secure] <NicolasRamosR> :/
-[03:19:19] [Server thread/INFO]: [Not Secure] <Matielculon2> Toma
-[03:19:56] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Gracias
-[03:20:01] [Server thread/INFO]: [Not Secure] <Matielculon2> De nd
-[03:20:03] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Graciasssss
-[03:20:13] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Eu
-[03:20:15] [Server thread/INFO]: [Not Secure] <Matielculon2> q
-[03:20:17] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Me voy a dormir
-[03:20:29] [Server thread/INFO]: [Not Secure] <Matielculon2> Aver
-[03:20:30] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Los ojos se me estan cerrando de una forma
-[03:20:36] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Me voy a cagar durmiendo en la silla
-[03:20:37] [Server thread/INFO]: [Not Secure] <NicolasRamosR> JASJSAJ
-[03:20:44] [Server thread/INFO]: [Not Secure] <Matielculon2> Eu Nico me voy a dormir
-[03:20:49] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Yo tambien
-[03:20:50] [Server thread/INFO]: [Not Secure] <Matielculon2> Ya tengo sueño
-[03:20:52] [Server thread/INFO]: [Not Secure] <Matielculon2> Bye
-[03:20:57] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Y YO HACE RATASO
-[03:21:01] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Chauuu
-[03:21:09] [Server thread/INFO]: Matielculon2 lost connection: Disconnected
-[03:21:09] [Server thread/INFO]: Matielculon2 left the game
-[03:21:11] [Server thread/INFO]: NicolasRamosR lost connection: Disconnected
-[03:21:11] [Server thread/INFO]: NicolasRamosR left the game
-[03:21:17] [Server thread/INFO]: Stopping the server
-[03:21:17] [Server thread/INFO]: Stopping server
-[03:21:17] [Server thread/INFO]: Saving players
-[03:21:17] [Server thread/INFO]: Saving worlds
-[03:21:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:21:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:21:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:21:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:21:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:21:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:21:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:32:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:32:48] [ServerMain/INFO]: Loaded 1290 recipes
+[23:32:49] [ServerMain/INFO]: Loaded 1399 advancements
+[23:32:49] [Server thread/INFO]: Starting minecraft server version 1.21
+[23:32:49] [Server thread/INFO]: Loading properties
+[23:32:49] [Server thread/INFO]: Default game type: SURVIVAL
+[23:32:49] [Server thread/INFO]: Generating keypair
+[23:32:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:32:49] [Server thread/INFO]: Using epoll channel type
+[23:32:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:32:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:32:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:32:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:32:49] [Server thread/INFO]: Preparing level "world"
+[23:32:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:32:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:32:53] [Worker-Main-2/INFO]: Preparing spawn area: 20%
+[23:32:53] [Server thread/INFO]: Time elapsed: 739 ms
+[23:32:53] [Server thread/INFO]: Done (3.884s)! For help, type "help"
+[23:33:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:33:10] [Server thread/INFO]: <--[HERE]
+[23:33:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:33:10] [Server thread/INFO]: <--[HERE]
+[23:33:48] [Server thread/INFO]: Matielculon2[/127.55.145.11:57759] logged in with entity id 6 at (0.1760986585027168, 82.0, 647.0312087731401)
+[23:33:48] [Server thread/INFO]: Matielculon2 joined the game
+[23:35:39] [Server thread/INFO]: NicolasRamosR[/127.237.143.76:37535] logged in with entity id 831 at (-342.23062491042447, 101.0, 790.7322067441912)
+[23:35:39] [Server thread/INFO]: NicolasRamosR joined the game
+[23:36:39] [Server thread/INFO]: NicolasRamosR has made the advancement [Ice Bucket Challenge]
+[23:37:20] [Server thread/INFO]: [Not Secure] <NicolasRamosR> -340 101 787
+[23:41:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=40, y=64, z=591} jd{x=41, y=61, z=593}
+[23:42:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=171, y=64, z=588} jd{x=170, y=62, z=590}
+[23:42:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=173, y=64, z=589} jd{x=173, y=62, z=589}
+[23:42:19] [Server thread/INFO]: [Not Secure] <NicolasRamosR> -195 70 751
+[23:44:56] [Server thread/WARN]: Oak Boat (vehicle of Matielculon2) moved wrongly! 0.27640557333006655
+[23:44:56] [Server thread/WARN]: Oak Boat (vehicle of Matielculon2) moved wrongly! 0.39870090482509113
+[23:44:56] [Server thread/WARN]: Oak Boat (vehicle of Matielculon2) moved wrongly! 0.5500596509439788
+[23:44:56] [Server thread/WARN]: Oak Boat (vehicle of Matielculon2) moved wrongly! 0.3486071130448636
+[23:47:52] [Server thread/INFO]: Matielculon2 has made the advancement [Not Today, Thank You]
+[23:49:16] [Server thread/INFO]: NicolasRamosR has made the advancement [Hot Stuff]
