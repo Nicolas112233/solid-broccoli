@@ -1,2 +1,18 @@
 [00:12:50] [Server thread/INFO]: [Not Secure] <Matielculon2> Benja 10-2
 [00:13:05] [Server thread/INFO]: [Not Secure] <Matielculon2> Mandale un saludo a jere que te dejo 10-2
+[00:15:12] [Server thread/INFO]: NicolasRamosR has made the advancement [Voluntary Exile]
+[00:15:49] [Server thread/INFO]: Matielculon2 lost connection: Disconnected
+[00:15:49] [Server thread/INFO]: Matielculon2 left the game
+[00:16:35] [Server thread/INFO]: NicolasRamosR lost connection: Disconnected
+[00:16:35] [Server thread/INFO]: NicolasRamosR left the game
+[00:16:41] [Server thread/INFO]: Stopping the server
+[00:16:41] [Server thread/INFO]: Stopping server
+[00:16:41] [Server thread/INFO]: Saving players
+[00:16:41] [Server thread/INFO]: Saving worlds
+[00:16:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:16:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:16:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:16:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:16:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:16:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:16:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -542,6 +542,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-01 00:15:12 +0000",
       "minecraft:skeleton": "2024-11-29 20:04:10 +0000",
       "minecraft:enderman": "2024-11-30 23:48:49 +0000",
       "minecraft:spider": "2024-11-29 20:21:36 +0000",
@@ -973,6 +974,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-01 00:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-01 00:15:12 +0000"
     },
     "done": true
   },
