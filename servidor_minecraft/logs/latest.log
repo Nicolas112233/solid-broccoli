@@ -24,3 +24,12 @@
 [22:28:36] [Server thread/INFO]: NicolasRamosR[/127.237.143.76:54913] logged in with entity id 5 at (-186.29834221381975, 70.0, 760.4037347390237)
 [22:28:36] [Server thread/INFO]: NicolasRamosR joined the game
 [22:34:39] [Server thread/INFO]: NicolasRamosR has made the advancement [Not Today, Thank You]
+[22:38:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-167, y=69, z=767} jd{x=-167, y=68, z=768}
+[22:38:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-167, y=69, z=767} jd{x=-167, y=68, z=768}
+[22:38:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-168, y=70, z=767} jd{x=-168, y=68, z=767}
+[22:39:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-172, y=71, z=764} jd{x=-170, y=69, z=764}
+[22:39:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-172, y=71, z=764} jd{x=-170, y=69, z=764}
+[22:55:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:55:26] [Server thread/INFO]: <--[HERE]
+[22:55:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:55:27] [Server thread/INFO]: <--[HERE]
