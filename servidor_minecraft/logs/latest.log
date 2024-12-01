@@ -33,3 +33,10 @@
 [22:55:26] [Server thread/INFO]: <--[HERE]
 [22:55:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [22:55:27] [Server thread/INFO]: <--[HERE]
+[23:08:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-155, y=71, z=824} jd{x=-156, y=70, z=824}
+[23:24:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-141, y=67, z=878} jd{x=-141, y=66, z=877}
+[23:24:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-142, y=67, z=879} jd{x=-141, y=66, z=877}
+[23:24:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-142, y=67, z=879} jd{x=-141, y=66, z=877}
+[23:24:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-139, y=68, z=841} jd{x=-140, y=67, z=842}
+[23:24:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-141, y=69, z=842} jd{x=-141, y=67, z=842}
+[23:24:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-141, y=69, z=842} jd{x=-141, y=67, z=842}
