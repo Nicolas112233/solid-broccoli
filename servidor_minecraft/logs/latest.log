@@ -18,3 +18,16 @@
 [01:23:04] [Server thread/INFO]: <--[HERE]
 [01:29:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [01:29:53] [Server thread/INFO]: <--[HERE]
+[02:52:12] [Server thread/INFO]: NicolasRamosR lost connection: Disconnected
+[02:52:12] [Server thread/INFO]: NicolasRamosR left the game
+[02:52:48] [Server thread/INFO]: Stopping the server
+[02:52:48] [Server thread/INFO]: Stopping server
+[02:52:48] [Server thread/INFO]: Saving players
+[02:52:48] [Server thread/INFO]: Saving worlds
+[02:52:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:52:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:52:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:52:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:52:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:52:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:52:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
