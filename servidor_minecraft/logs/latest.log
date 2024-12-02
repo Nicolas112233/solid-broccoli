@@ -40,3 +40,5 @@
 [23:24:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-139, y=68, z=841} jd{x=-140, y=67, z=842}
 [23:24:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-141, y=69, z=842} jd{x=-141, y=67, z=842}
 [23:24:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-141, y=69, z=842} jd{x=-141, y=67, z=842}
+[23:56:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:56:13] [Server thread/INFO]: <--[HERE]
