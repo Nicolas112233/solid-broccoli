@@ -549,7 +549,8 @@
       "minecraft:enderman": "2024-11-30 23:48:49 +0000",
       "minecraft:spider": "2024-11-29 20:21:36 +0000",
       "minecraft:zombie": "2024-11-29 20:04:34 +0000",
-      "minecraft:creeper": "2024-11-29 20:07:52 +0000"
+      "minecraft:creeper": "2024-11-29 20:07:52 +0000",
+      "minecraft:drowned": "2024-12-02 00:53:13 +0000"
     },
     "done": false
   },
@@ -1057,6 +1058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-02 00:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-01 22:32:39 +0000"
@@ -1072,6 +1079,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-01 22:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-02 00:59:15 +0000"
     },
     "done": true
   },
@@ -1114,6 +1127,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2024-12-01 22:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-02 00:59:15 +0000"
     },
     "done": true
   },

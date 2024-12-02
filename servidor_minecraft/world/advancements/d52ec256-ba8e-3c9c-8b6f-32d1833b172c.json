@@ -574,6 +574,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-11-29 20:22:53 +0000",
+      "cooked_mutton": "2024-12-02 00:51:49 +0000",
       "cooked_beef": "2024-11-29 20:03:08 +0000",
       "melon_slice": "2024-11-29 20:02:43 +0000"
     },
@@ -1011,6 +1012,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-11-30 23:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-02 01:03:14 +0000"
     },
     "done": true
   },
