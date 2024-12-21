@@ -20,3 +20,5 @@
 [23:35:17] [Server thread/INFO]: Done (4.365s)! For help, type "help"
 [23:41:34] [Server thread/INFO]: santypete[/127.229.50.208:52807] logged in with entity id 38 at (-11.824393263772192, 75.0, 108.66095478534147)
 [23:41:34] [Server thread/INFO]: santypete joined the game
+[23:48:51] [Server thread/INFO]: Villager cmk['Villager'/90, l='ServerLevel[world]', x=24.70, y=78.25, z=90.73] died, message: 'Villager was slain by Zombie'
+[23:49:39] [Server thread/INFO]: Villager cmk['Villager'/43, l='ServerLevel[world]', x=5.31, y=68.65, z=94.46] died, message: 'Villager was slain by Zombie'
