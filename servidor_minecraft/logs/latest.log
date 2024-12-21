@@ -1,78 +1,50 @@
-[19Dec2024 02:03:19.437] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[19Dec2024 02:03:19.441] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[19Dec2024 02:03:20.739] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[19Dec2024 02:03:20.832] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/solid-broccoli/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[19Dec2024 02:03:21.333] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/solid-broccoli/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[19Dec2024 02:03:21.335] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/solid-broccoli/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Dec2024 02:03:21.337] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/solid-broccoli/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Dec2024 02:03:21.339] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/solid-broccoli/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Dec2024 02:03:21.625] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[19Dec2024 02:03:23.838] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[19Dec2024 02:03:23.854] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[19Dec2024 02:03:24.053] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 56 options available, 0 override(s) found
-[19Dec2024 02:03:31.961] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[19Dec2024 02:03:31.962] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[19Dec2024 02:03:33.459] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[19Dec2024 02:03:34.014] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[19Dec2024 02:03:34.798] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19Dec2024 02:03:35.765] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/solid-broccoli/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23117!/assets/.mcassetsroot' uses unexpected schema
-[19Dec2024 02:03:35.766] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/solid-broccoli/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23117!/data/.mcassetsroot' uses unexpected schema
-[19Dec2024 02:03:38.101] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:arphex:entities/long_legs}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[19Dec2024 02:03:38.102] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:arphex:entities/silverfish_spectre}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[19Dec2024 02:03:38.102] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:arphex:entities/millipede_marauder}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[19Dec2024 02:03:38.147] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[19Dec2024 02:03:38.291] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1322 advancements
-[19Dec2024 02:03:38.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[19Dec2024 02:03:38.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19Dec2024 02:03:38.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19Dec2024 02:03:38.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19Dec2024 02:03:39.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[19Dec2024 02:03:39.142] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[19Dec2024 02:03:39.238] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19Dec2024 02:03:39.238] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[19Dec2024 02:03:39.238] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19Dec2024 02:03:39.239] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[19Dec2024 02:03:39.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19Dec2024 02:03:44.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19Dec2024 02:03:47.602] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:03:47.693] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:03:47.706] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:03:47.732] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:03:47.757] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:03:47.771] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:03:48.030] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:03:48.431] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:03:48.924] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:03:49.422] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:03:49.921] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[19Dec2024 02:03:50.400] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5480 ms
-[19Dec2024 02:03:50.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.150s)! For help, type "help"
-[19Dec2024 02:03:50.424] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[19Dec2024 02:06:29.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[19Dec2024 02:06:29.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
-[19Dec2024 02:07:12.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NicolasRamosR[/127.17.193.13:51187] logged in with entity id 273 at (-163.5, 113.0, -169.5)
-[19Dec2024 02:07:12.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NicolasRamosR joined the game
-[19Dec2024 02:07:13.138] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[19Dec2024 02:07:13.532] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[19Dec2024 02:07:13.968] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[19Dec2024 02:07:15.851] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
-[19Dec2024 02:07:17.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[19Dec2024 02:07:17.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NicolasRamosR lost connection: Disconnected
-[19Dec2024 02:07:17.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NicolasRamosR left the game
-[19Dec2024 02:07:28.885] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NicolasRamosR[/127.17.193.13:55497] logged in with entity id 354 at (-163.5, 113.0, -169.5)
-[19Dec2024 02:07:28.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NicolasRamosR joined the game
-[19Dec2024 02:07:30.080] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[19Dec2024 02:07:31.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NicolasRamosR lost connection: Disconnected
-[19Dec2024 02:07:31.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NicolasRamosR left the game
-[19Dec2024 02:07:42.308] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [the_anomaly:the_anomaly] rejected their client side version number
-[19Dec2024 02:07:42.309] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[19Dec2024 02:07:42.332] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@59a6908[id=<null>,name=santypete,properties={},legacy=false] (/127.229.50.208:39673) lost connection: Connection closed - mismatched mod channel list
-[19Dec2024 02:08:43.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NicolasRamosR[/127.17.193.13:43223] logged in with entity id 419 at (-163.5, 113.0, -169.5)
-[19Dec2024 02:08:43.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NicolasRamosR joined the game
-[19Dec2024 02:08:44.480] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[19Dec2024 02:08:44.730] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[19Dec2024 02:08:45.077] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
-[19Dec2024 02:08:46.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NicolasRamosR lost connection: Disconnected
-[19Dec2024 02:08:46.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NicolasRamosR left the game
-[19Dec2024 02:13:07.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[19Dec2024 02:13:07.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[03:51:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:51:41] [ServerMain/INFO]: Loaded 1290 recipes
+[03:51:42] [ServerMain/INFO]: Loaded 1399 advancements
+[03:51:42] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:51:42] [Server thread/INFO]: Loading properties
+[03:51:42] [Server thread/INFO]: Default game type: SURVIVAL
+[03:51:42] [Server thread/INFO]: Generating keypair
+[03:51:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:51:42] [Server thread/INFO]: Using epoll channel type
+[03:51:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:51:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:51:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:51:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:51:42] [Server thread/INFO]: Preparing level "world"
+[03:51:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:51:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:51:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:51:46] [Server thread/INFO]: Time elapsed: 830 ms
+[03:51:46] [Server thread/INFO]: Done (4.032s)! For help, type "help"
+[03:52:32] [Server thread/INFO]: NicolasRamosR[/127.237.143.76:57499] logged in with entity id 15 at (2.5, 141.0, 0.5)
+[03:52:32] [Server thread/INFO]: NicolasRamosR joined the game
+[03:52:48] [Server thread/INFO]: santypete[/127.229.50.208:35823] logged in with entity id 251 at (-6.5, 140.0, -1.5)
+[03:52:48] [Server thread/INFO]: santypete joined the game
+[03:53:38] [Server thread/INFO]: Matielculon2[/127.141.250.81:48239] logged in with entity id 717 at (3.5, 139.0, 2.5)
+[03:53:38] [Server thread/INFO]: Matielculon2 joined the game
+[03:54:09] [Server thread/INFO]: [Not Secure] <Matielculon2> jajajajaj
+[03:54:12] [Server thread/INFO]: [Not Secure] <Matielculon2> Eu
+[03:54:16] [Server thread/INFO]: [Not Secure] <Matielculon2> En donde estan?
+[03:54:18] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Q
+[03:54:28] [Server thread/INFO]: santypete has made the advancement [Ice Bucket Challenge]
+[03:56:54] [Server thread/INFO]: santypete has made the advancement [Acquire Hardware]
+[03:57:43] [Server thread/INFO]: Matielculon2 has made the advancement [Stone Age]
+[03:57:43] [Server thread/INFO]: santypete has made the advancement [Stone Age]
+[03:58:05] [Server thread/INFO]: NicolasRamosR has made the advancement [Stone Age]
+[03:58:50] [Server thread/INFO]: [Not Secure] <NicolasRamosR> 52 729 113
+[03:58:55] [Server thread/INFO]: santypete has made the advancement [Getting an Upgrade]
+[03:59:00] [Server thread/INFO]: Matielculon2 has made the advancement [Getting an Upgrade]
+[04:00:50] [Server thread/INFO]: NicolasRamosR has made the advancement [Getting an Upgrade]
+[04:03:03] [Server thread/INFO]: [Not Secure] <Matielculon2> Donde estan?
+[04:03:10] [Server thread/INFO]: [Not Secure] <santypete> estamos en una cueva
+[04:03:25] [Server thread/INFO]: [Not Secure] <Matielculon2> O mina?
+[04:03:44] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Mati
+[04:03:52] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Estas en la llamada???
+[04:04:17] [Server thread/INFO]: [Not Secure] <Matielculon2> Su
+[04:04:22] [Server thread/INFO]: [Not Secure] <Matielculon2> Si
+[04:05:18] [Server thread/INFO]: santypete has made the advancement [Suit Up]
+[04:05:41] [Server thread/INFO]: NicolasRamosR has made the advancement [Monster Hunter]
+[04:06:34] [Server thread/INFO]: Matielculon2 lost connection: Disconnected
+[04:06:34] [Server thread/INFO]: Matielculon2 left the game
+[04:12:28] [Server thread/INFO]: santypete has made the advancement [Isn't It Iron Pick]
