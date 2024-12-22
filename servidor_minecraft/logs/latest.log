@@ -195,3 +195,24 @@
 [05:17:19] [Server thread/INFO]: [Not Secure] <NicolasRamosR> (:
 [05:17:22] [Server thread/INFO]: NicolasRamosR lost connection: Disconnected
 [05:17:22] [Server thread/INFO]: NicolasRamosR left the game
+[05:26:29] [Server thread/INFO]: santypete has made the advancement [What a Deal!]
+[05:28:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-45, y=64, z=-775} jd{x=-46, y=62, z=-775}
+[05:37:53] [Server thread/INFO]: santypete has made the advancement [Best Friends Forever]
+[05:56:15] [Server thread/INFO]: Villager cmk['Weaponsmith'/17255, l='ServerLevel[world]', x=50.49, y=66.00, z=-771.42] died, message: 'Weaponsmith was slain by santypete'
+[06:01:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:01:41] [Server thread/INFO]: <--[HERE]
+[06:02:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:02:09] [Server thread/INFO]: <--[HERE]
+[06:02:32] [Server thread/INFO]: You whisper to santypete: q
+[06:02:36] [Server thread/INFO]: [Not Secure] <santypete> xddd
+[06:03:17] [Server thread/INFO]: [Not Secure] <santypete> bro
+[06:03:21] [Server thread/INFO]: [Not Secure] <santypete> toy re chetado
+[06:03:39] [Server thread/INFO]: [Not Secure] <santypete> pero mal
+[06:03:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=256, y=64, z=-878} jd{x=257, y=62, z=-879}
+[06:03:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=257, y=64, z=-880} jd{x=258, y=62, z=-880}
+[06:03:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=258, y=64, z=-878} jd{x=259, y=62, z=-878}
+[06:07:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=633, y=64, z=-1081} jd{x=633, y=62, z=-1081}
+[06:07:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=633, y=64, z=-1081} jd{x=633, y=62, z=-1081}
+[06:16:06] [Server thread/INFO]: Villager cmk['Weaponsmith'/30018, l='ServerLevel[world]', x=76.50, y=80.00, z=-829.54] died, message: 'Weaponsmith was slain by santypete'
+[06:18:29] [Server thread/INFO]: santypete lost connection: Disconnected
+[06:18:29] [Server thread/INFO]: santypete left the game
