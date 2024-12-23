@@ -1,218 +1,58 @@
-[04:41:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:41:37] [ServerMain/INFO]: Loaded 1290 recipes
-[04:41:37] [ServerMain/INFO]: Loaded 1399 advancements
-[04:41:38] [Server thread/INFO]: Starting minecraft server version 1.21
-[04:41:38] [Server thread/INFO]: Loading properties
-[04:41:38] [Server thread/INFO]: Default game type: SURVIVAL
-[04:41:38] [Server thread/INFO]: Generating keypair
-[04:41:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:41:38] [Server thread/INFO]: Using epoll channel type
-[04:41:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:41:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:41:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:41:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:41:38] [Server thread/INFO]: Preparing level "world"
-[04:41:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:41:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:41:42] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[04:41:42] [Server thread/INFO]: Time elapsed: 780 ms
-[04:41:42] [Server thread/INFO]: Done (4.084s)! For help, type "help"
-[04:41:58] [Server thread/INFO]: santypete[/127.229.50.208:58081] logged in with entity id 35 at (-9.300000011920929, 76.0, 108.30000001192093)
-[04:41:58] [Server thread/INFO]: santypete joined the game
-[04:42:00] [Server thread/INFO]: Matielculon2[/127.141.250.81:40619] logged in with entity id 187 at (-15.798736522371446, 72.0, 113.29833809549416)
-[04:42:00] [Server thread/INFO]: Matielculon2 joined the game
-[04:44:42] [Server thread/INFO]: [Not Secure] <santypete> mati?
-[04:44:46] [Server thread/INFO]: [Not Secure] <santypete> no se te escucha
-[04:44:55] [Server thread/INFO]: [Not Secure] <santypete> si
-[04:45:47] [Server thread/INFO]: [Not Secure] <santypete> no
-[04:47:25] [Server thread/INFO]: santypete has made the advancement [Sweet Dreams]
-[04:47:29] [Server thread/INFO]: Matielculon2 has made the advancement [Sweet Dreams]
-[04:47:30] [Server thread/INFO]: [Not Secure] <santypete> si
-[04:47:37] [Server thread/INFO]: NicolasRamosR[/127.237.143.76:39375] logged in with entity id 2063 at (65.27865743012869, 70.0, -45.872814795699014)
-[04:47:37] [Server thread/INFO]: NicolasRamosR joined the game
-[04:48:14] [Server thread/INFO]: santypete has made the advancement [Not Today, Thank You]
-[04:48:20] [Server thread/INFO]: Matielculon2 has made the advancement [Monster Hunter]
-[04:48:40] [Server thread/INFO]: [Not Secure] <santypete> perame
-[04:48:47] [Server thread/INFO]: [Not Secure] <Matielculon2> Bno
-[04:49:10] [Server thread/INFO]: [Not Secure] <santypete> para abajo?
-[04:50:00] [Server thread/INFO]: [Not Secure] <Matielculon2> Jere
-[04:50:05] [Server thread/INFO]: [Not Secure] <santypete> q
-[04:50:07] [Server thread/INFO]: [Not Secure] <Matielculon2> Creo que pasamos una cueva
-[04:50:14] [Server thread/INFO]: [Not Secure] <santypete> deja
-[04:51:53] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Chicos donde estan?
-[04:52:00] [Server thread/INFO]: [Not Secure] <santypete> picando
-[04:52:12] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Puedo ir con ustedes?
-[04:52:13] [Server thread/INFO]: [Not Secure] <Matielculon2> En una cueva
-[04:52:16] [Server thread/INFO]: [Not Secure] <Matielculon2> xd
-[04:52:20] [Server thread/INFO]: [Not Secure] <santypete> ok
-[04:52:42] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Como los ubico?
-[04:52:56] [Server thread/INFO]: [Not Secure] <santypete> -127 /10/
-[04:53:03] [Server thread/INFO]: [Not Secure] <santypete> -325
-[04:53:07] [Server thread/INFO]: [Not Secure] <santypete> eso
-[04:53:20] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Muchas gracias che
-[04:53:25] [Server thread/INFO]: [Not Secure] <santypete> de nd
-[04:54:11] [Server thread/INFO]: [Not Secure] <Matielculon2> q haces?
-[04:54:21] [Server thread/INFO]: [Not Secure] <santypete> aca pica
-[04:54:27] [Server thread/INFO]: NicolasRamosR fell from a high place
-[04:54:30] [Server thread/INFO]: [Not Secure] <santypete> q
-[04:54:33] [Server thread/INFO]: [Not Secure] <santypete> q bajon
-[04:55:04] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No sirvo para jugar nada chicos
-[04:55:06] [Server thread/INFO]: [Not Secure] <NicolasRamosR> ):
-[04:55:09] [Server thread/INFO]: [Not Secure] <santypete> uh
-[04:55:33] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Encima no se donde era
-[04:55:39] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Ya no se que hacer
-[04:56:09] [Server thread/INFO]: [Not Secure] <santypete> baja con cuidado mati
-[04:56:57] [Server thread/INFO]: [Not Secure] <Matielculon2> q
-[04:58:08] [Server thread/INFO]: [Not Secure] <Matielculon2> Encontre oro Jere
-[04:58:12] [Server thread/INFO]: [Not Secure] <santypete> a
-[04:58:14] [Server thread/INFO]: [Not Secure] <santypete> xd
-[04:58:31] [Server thread/INFO]: [Not Secure] <santypete> eu nico podes llegar
-[04:58:34] [Server thread/INFO]: [Not Secure] <santypete> estamos
-[04:58:42] [Server thread/INFO]: [Not Secure] <santypete> en la capa 40
-[04:58:48] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No tengo nada
-[04:58:54] [Server thread/INFO]: [Not Secure] <santypete> uh
-[04:59:07] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Me siento inutil
-[04:59:31] [Server thread/INFO]: [Not Secure] <santypete> eu
-[04:59:36] [Server thread/INFO]: [Not Secure] <santypete> no digas eso
-[04:59:44] [Server thread/INFO]: [Not Secure] <santypete> matiiiii
-[04:59:47] [Server thread/INFO]: [Not Secure] <santypete> aaaaaaa
-[04:59:55] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Acabe de perder de forma pelotuda
-[04:59:56] [Server thread/INFO]: [Not Secure] <Matielculon2> Que
-[05:00:07] [Server thread/INFO]: NicolasRamosR was slain by Zombie
-[05:00:08] [Server thread/INFO]: [Not Secure] <santypete> diamante
-[05:00:24] [Server thread/INFO]: santypete has made the advancement [Diamonds!]
-[05:00:28] [Server thread/INFO]: [Not Secure] <santypete> opa
-[05:00:30] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Yo ya no se
-[05:00:35] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Me cago en todo
-[05:00:39] [Server thread/INFO]: [Not Secure] <santypete> me cago de hambre con dos diamantes
-[05:00:42] [Server thread/INFO]: [Not Secure] <santypete> lptm
-[05:00:46] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Me vino una oleada de zombies y no tenia nada
-[05:00:53] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No se de donde salen tantos
-[05:01:06] [Server thread/INFO]: [Not Secure] <santypete> q dificultad le pusiste?
-[05:01:19] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No le puse ninguna
-[05:01:26] [Server thread/INFO]: [Not Secure] <santypete> a
-[05:01:30] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Creo que por defecto biene en easy
-[05:01:40] [Server thread/INFO]: [Not Secure] <santypete> claro
-[05:01:41] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Porque tuve que reiniciar el server
-[05:01:46] [Server thread/INFO]: [Not Secure] <santypete> a
-[05:01:57] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Y asi viene la ultima vez que tuve que cambiarla
-[05:02:21] [Server thread/INFO]: [Not Secure] <Matielculon2> Nico no queres jugar otra cosa?
-[05:02:29] [Server thread/INFO]: [Not Secure] <Matielculon2> Así tipo no estes aburrido
-[05:03:23] [Server thread/INFO]: NicolasRamosR was blown up by Creeper
-[05:03:33] [Server thread/INFO]: [Not Secure] <NicolasRamosR> NOOO
-[05:03:48] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Estaba rompiendo un arbol
-[05:03:55] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No lo vi enserio
-[05:04:01] [Server thread/INFO]: [Not Secure] <NicolasRamosR> ):
-[05:04:22] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Mati recien veo tu mensaje
-[05:04:31] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Y que vamos a jugar?
-[05:04:36] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Que paso Jere?
-[05:04:41] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No hay otro juego
-[05:04:57] [Server thread/INFO]: NicolasRamosR fell from a high place
-[05:05:09] [Server thread/INFO]: NicolasRamosR fell from a high place
-[05:05:21] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Lo hago al proposito
-[05:05:24] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No se que hacer
-[05:05:33] [Server thread/INFO]: NicolasRamosR fell from a high place
-[05:05:37] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No se
-[05:05:46] [Server thread/INFO]: [Not Secure] <santypete> mati cuanto hierro tenes?
-[05:05:50] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No me siento bien ahora para jugar Minecraft
-[05:05:57] [Server thread/INFO]: [Not Secure] <NicolasRamosR> En otro momento veo si mejoro
-[05:06:06] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Ahora lo veo muy lejos
-[05:06:07] [Server thread/INFO]: [Not Secure] <Matielculon2> jere diamante
-[05:06:12] [Server thread/INFO]: [Not Secure] <santypete> a
-[05:06:13] [Server thread/INFO]: [Not Secure] <Matielculon2> No psa nd Nico
-[05:06:15] [Server thread/INFO]: [Not Secure] <santypete> nice
-[05:06:17] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Ya me agarro un bajon tremendo
-[05:06:27] [Server thread/INFO]: NicolasRamosR fell from a high place
-[05:06:42] [Server thread/INFO]: NicolasRamosR fell from a high place
-[05:06:51] [Server thread/INFO]: [Not Secure] <NicolasRamosR> UHHH NO SABEN LA CAIDA QUE DI
-[05:06:56] [Server thread/INFO]: [Not Secure] <NicolasRamosR> AMIGO RE LARGA
-[05:07:10] [Server thread/INFO]: [Not Secure] <Matielculon2> JERE VENI ENCONTRE UNA BANDA DE DIAMANTES
-[05:07:15] [Server thread/INFO]: NicolasRamosR fell from a high place
-[05:07:18] [Server thread/INFO]: [Not Secure] <Matielculon2> Para vs
-[05:07:45] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Encontre hierro
-[05:07:51] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Lo malo es que no tengo pico
-[05:07:52] [Server thread/INFO]: [Not Secure] <santypete> en capa estas mati
-[05:07:54] [Server thread/INFO]: [Not Secure] <NicolasRamosR> (:
-[05:07:56] [Server thread/INFO]: [Not Secure] <santypete> uh
-[05:09:19] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Nooo
-[05:09:31] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No se si decirlo
-[05:09:46] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Es que es una pelotudes mia
-[05:10:09] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No esque empeze a lagrimear y encima que me siento dentro de todo bien
-[05:10:11] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No se eu
-[05:10:14] [Server thread/INFO]: [Not Secure] <NicolasRamosR> AAAA
-[05:10:17] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No me gustaaa
-[05:10:18] [Server thread/INFO]: [Not Secure] <NicolasRamosR> ):
-[05:10:22] [Server thread/INFO]: Matielculon2 has made the advancement [Isn't It Iron Pick]
-[05:10:31] [Server thread/INFO]: Matielculon2 has made the advancement [Diamonds!]
-[05:10:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-50, y=85, z=7} jd{x=-50, y=83, z=7}
-[05:10:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-50, y=85, z=7} jd{x=-50, y=83, z=7}
-[05:10:50] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Chicos los felicito
-[05:10:57] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Por los logros
-[05:11:02] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Son re piola jugando Mine
-[05:11:17] [Server thread/INFO]: [Not Secure] <Matielculon2> Gracias nico vs iguak
-[05:11:31] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No bro yo no
-[05:11:42] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Tengo 3 coras y medio
-[05:11:44] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No se como
-[05:12:07] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Y mi invventario tiene 16 de tierra, un bloque de arbol y 9 de sandia
-[05:12:31] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No me los des
-[05:12:37] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No me los merezco
-[05:12:46] [Server thread/INFO]: [Not Secure] <Matielculon2> Tengo 17 diamantes
-[05:12:58] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Re piolaaa
-[05:13:05] [Server thread/INFO]: [Not Secure] <Matielculon2> Si mal
-[05:13:09] [Server thread/INFO]: [Not Secure] <Matielculon2> Jere?
-[05:13:51] [Server thread/INFO]: [Not Secure] <santypete> mati sali para afuera
-[05:13:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-191, y=64, z=172} jd{x=-192, y=62, z=170}
-[05:14:25] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Chicos no se si seguir jugando
-[05:14:31] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No me siento bien
-[05:14:38] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Van 3 dias seguidos que lloro
-[05:14:50] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Y no se si jugar me sirve
-[05:15:11] [Server thread/INFO]: Matielculon2 has made the advancement [Cover Me with Diamonds]
-[05:15:16] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Jere
-[05:15:21] [Server thread/INFO]: santypete has made the advancement [Cover Me with Diamonds]
-[05:15:31] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Se que estan ustedes, pero aun asi mirame
-[05:15:33] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Me siento mal
-[05:15:37] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No se ya que hacer
-[05:15:47] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Me voy chicos
-[05:15:49] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Les aviso
-[05:15:56] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Si me siento mejor
-[05:16:04] [Server thread/INFO]: [Not Secure] <Matielculon2> Bno Nico mejorate :]
-[05:16:09] [Server thread/INFO]: Matielculon2 has made the advancement [Acquire Hardware]
-[05:16:20] [Server thread/INFO]: [Not Secure] <NicolasRamosR> La verdad muchas gracias Mati
-[05:16:22] [Server thread/INFO]: [Not Secure] <Matielculon2> Eu yo tmb me voy a dormir
-[05:16:25] [Server thread/INFO]: [Not Secure] <santypete> mati sali afuera
-[05:16:29] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Obvio tratare
-[05:16:37] [Server thread/INFO]: [Not Secure] <Matielculon2> Nos vemosss
-[05:16:38] [Server thread/INFO]: Matielculon2 lost connection: Disconnected
-[05:16:38] [Server thread/INFO]: Matielculon2 left the game
-[05:16:47] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Chau Jere
-[05:16:52] [Server thread/INFO]: [Not Secure] <santypete> chau
-[05:16:53] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Perdon por todo esto enserio
-[05:16:55] [Server thread/INFO]: [Not Secure] <santypete> nv
-[05:17:00] [Server thread/INFO]: [Not Secure] <santypete> no pasa nd
-[05:17:08] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Bueno
-[05:17:13] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Adios
-[05:17:18] [Server thread/INFO]: [Not Secure] <santypete> chau
-[05:17:19] [Server thread/INFO]: [Not Secure] <NicolasRamosR> (:
-[05:17:22] [Server thread/INFO]: NicolasRamosR lost connection: Disconnected
-[05:17:22] [Server thread/INFO]: NicolasRamosR left the game
-[05:26:29] [Server thread/INFO]: santypete has made the advancement [What a Deal!]
-[05:28:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-45, y=64, z=-775} jd{x=-46, y=62, z=-775}
-[05:37:53] [Server thread/INFO]: santypete has made the advancement [Best Friends Forever]
-[05:56:15] [Server thread/INFO]: Villager cmk['Weaponsmith'/17255, l='ServerLevel[world]', x=50.49, y=66.00, z=-771.42] died, message: 'Weaponsmith was slain by santypete'
-[06:01:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[06:01:41] [Server thread/INFO]: <--[HERE]
-[06:02:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[06:02:09] [Server thread/INFO]: <--[HERE]
-[06:02:32] [Server thread/INFO]: You whisper to santypete: q
-[06:02:36] [Server thread/INFO]: [Not Secure] <santypete> xddd
-[06:03:17] [Server thread/INFO]: [Not Secure] <santypete> bro
-[06:03:21] [Server thread/INFO]: [Not Secure] <santypete> toy re chetado
-[06:03:39] [Server thread/INFO]: [Not Secure] <santypete> pero mal
-[06:03:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=256, y=64, z=-878} jd{x=257, y=62, z=-879}
-[06:03:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=257, y=64, z=-880} jd{x=258, y=62, z=-880}
-[06:03:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=258, y=64, z=-878} jd{x=259, y=62, z=-878}
-[06:07:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=633, y=64, z=-1081} jd{x=633, y=62, z=-1081}
-[06:07:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=633, y=64, z=-1081} jd{x=633, y=62, z=-1081}
-[06:16:06] [Server thread/INFO]: Villager cmk['Weaponsmith'/30018, l='ServerLevel[world]', x=76.50, y=80.00, z=-829.54] died, message: 'Weaponsmith was slain by santypete'
-[06:18:29] [Server thread/INFO]: santypete lost connection: Disconnected
-[06:18:29] [Server thread/INFO]: santypete left the game
+[01:38:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:38:36] [ServerMain/INFO]: Loaded 1290 recipes
+[01:38:36] [ServerMain/INFO]: Loaded 1399 advancements
+[01:38:36] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:38:36] [Server thread/INFO]: Loading properties
+[01:38:36] [Server thread/INFO]: Default game type: SURVIVAL
+[01:38:36] [Server thread/INFO]: Generating keypair
+[01:38:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:38:36] [Server thread/INFO]: Using epoll channel type
+[01:38:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:38:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:38:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:38:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:38:37] [Server thread/INFO]: Preparing level "world"
+[01:38:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:38:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:38:40] [Server thread/INFO]: Time elapsed: 458 ms
+[01:38:40] [Server thread/INFO]: Done (3.200s)! For help, type "help"
+[01:41:39] [Server thread/INFO]: NicolasRamosR[/127.237.143.76:49209] logged in with entity id 14 at (-157.7435902303697, 71.0, 141.6051749216046)
+[01:41:39] [Server thread/INFO]: NicolasRamosR joined the game
+[01:41:58] [Server thread/INFO]: santypete[/127.229.50.208:47135] logged in with entity id 343 at (73.30397715254614, 80.0, -828.6424087897383)
+[01:41:58] [Server thread/INFO]: santypete joined the game
+[01:42:02] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Pornoo
+[01:42:06] [Server thread/INFO]: [Not Secure] <santypete> q
+[01:42:13] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Sexo gratis
+[01:42:16] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Si me encontras
+[01:42:18] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Noq
+[01:42:21] [Server thread/INFO]: [Not Secure] <santypete> seeeeeee
+[01:42:24] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Eu donde estas?
+[01:42:25] [Server thread/INFO]: [Not Secure] <santypete> q
+[01:42:28] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No bno
+[01:42:33] [Server thread/INFO]: [Not Secure] <santypete> en la loma de la bosta
+[01:42:37] [Server thread/INFO]: [Not Secure] <santypete> literal
+[01:42:50] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Y a que coordenadas queda eso?
+[01:42:55] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Jajjaja
+[01:43:05] [Server thread/INFO]: [Not Secure] <santypete> calle ecuador
+[01:43:06] [Server thread/INFO]: [Not Secure] <santypete> q
+[01:43:08] [Server thread/INFO]: [Not Secure] <santypete> eeee
+[01:43:13] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Eu toy cerca
+[01:43:22] [Server thread/INFO]: NicolasRamosR fell from a high place
+[01:43:29] [Server thread/INFO]: [Not Secure] <santypete> q
+[01:43:32] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Bueno ahora si
+[01:43:36] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Donde mrd estas?
+[01:43:54] [Server thread/INFO]: [Not Secure] <santypete> 69/78/-795
+[01:43:58] [Server thread/INFO]: [Not Secure] <NicolasRamosR> lISTO
+[01:44:02] [Server thread/INFO]: [Not Secure] <NicolasRamosR> En poco le llego
+[01:44:07] [Server thread/INFO]: [Not Secure] <santypete> ok
+[01:45:28] [Server thread/INFO]: [Not Secure] <santypete> eu
+[01:45:30] [Server thread/INFO]: [Not Secure] <santypete> si
+[01:45:36] [Server thread/INFO]: [Not Secure] <santypete> podes mata vacas
+[01:45:39] [Server thread/INFO]: [Not Secure] <santypete> pliss
+[01:45:42] [Server thread/INFO]: [Not Secure] <santypete> si podes
+[01:45:43] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No tengo nada
+[01:45:45] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Xd
+[01:45:46] [Server thread/INFO]: [Not Secure] <santypete> si no no
+[01:46:02] [Server thread/INFO]: NicolasRamosR has made the advancement [Ice Bucket Challenge]
+[01:46:47] [Server thread/INFO]: [Not Secure] <santypete> w
+[01:48:27] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Jere litt estoy acá
