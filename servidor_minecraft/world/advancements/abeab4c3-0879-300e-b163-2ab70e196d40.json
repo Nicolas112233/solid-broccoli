@@ -16,6 +16,7 @@
       "minecraft:desert": "2024-12-22 06:03:53 +0000",
       "minecraft:jungle": "2024-12-22 06:04:56 +0000",
       "minecraft:cherry_grove": "2024-12-21 03:52:49 +0000",
+      "minecraft:sunflower_plains": "2024-12-23 03:14:35 +0000",
       "minecraft:meadow": "2024-12-21 04:23:37 +0000",
       "minecraft:savanna": "2024-12-21 03:54:03 +0000",
       "minecraft:wooded_badlands": "2024-12-22 06:07:39 +0000",
@@ -1119,6 +1120,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-23 03:12:51 +0000",
       "minecraft:skeleton": "2024-12-21 23:58:08 +0000",
       "minecraft:enderman": "2024-12-22 06:11:31 +0000",
       "minecraft:spider": "2024-12-22 05:21:02 +0000",
@@ -1704,6 +1706,12 @@
       "minecraft:wolf": "2024-12-23 02:56:02 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-23 03:12:51 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
